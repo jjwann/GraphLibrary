@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace GraphLibrary.Graph
+namespace GraphLibrary
 {
     /// <summary>
     /// Implementation of functionality for an adjacency list. 
